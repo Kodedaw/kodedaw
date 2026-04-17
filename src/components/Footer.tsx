@@ -59,6 +59,7 @@ export default function Footer() {
                   <a
                     key={social.label}
                     href={social.href}
+                    target='_blank'
                     className="w-10 h-10 rounded-full bg-dark-card border border-gray-border flex items-center justify-center text-xs font-bold text-gray-text hover:text-foreground hover:border-teal/40 hover:bg-teal/10 transition-all duration-300"
                   >
                     {social.label}
