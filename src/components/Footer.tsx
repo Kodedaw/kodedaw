@@ -52,7 +52,7 @@ export default function Footer() {
               <div className="flex gap-3">
                 {[
                   { label: '@', href: '#' },
-                  { label: 'Ig', href: '#' },
+                  { label: 'Ig', href: 'https://www.instagram.com/kodedaw/' },
                   { label: 'X', href: '#' },
                   { label: 'Fb', href: '#' },
                 ].map((social) => (
