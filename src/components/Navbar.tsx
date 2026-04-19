@@ -33,7 +33,7 @@ export default function Navbar({ theme, onToggleTheme }: NavbarProps) {
             <img
               src="/images/kodedaw-logo.png"
               alt="Kodedaw"
-              className={`h-10 md:h-7 w-auto ${theme === 'dark' ? 'mix-blend-screen' : ''}`}
+              className={`h-5 md:h-7 w-auto ${theme === 'dark' ? 'mix-blend-screen' : ''}`}
             />
           </a>
 
