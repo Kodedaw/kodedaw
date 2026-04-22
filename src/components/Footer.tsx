@@ -110,7 +110,7 @@ export default function Footer() {
               <ul className="space-y-4">
                 <li className="flex items-start gap-3 text-sm text-gray-text group hover:text-foreground transition-colors cursor-pointer">
                   <Mail size={16} className="mt-0.5 text-teal-light shrink-0" />
-                  <span>hello@kodedaw.com</span>
+                  <span>business@kodedaw.com</span>
                 </li>
                 <li className="flex items-start gap-3 text-sm text-gray-text group hover:text-foreground transition-colors cursor-pointer">
                   <Phone size={16} className="mt-0.5 text-teal-light shrink-0" />
